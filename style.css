@@ -1,0 +1,40 @@
+#disp{
+height: 100px;
+margin-bottom: 30px;
+margin-top: 10px;
+text-align: right;
+font-size: 30px;
+background-color: black !important;
+color: white!important;
+ border: 2px gray solid;
+ margin-top: 20px;
+ opacity: 0.8;
+ border-radius: 20px;
+}
+
+Button{
+display: inline;
+width: 60px;
+margin-bottom: 20px;
+background-color: silver !important;
+border-radius: 10px !important;
+font-size: 15px !important;
+border: 1px slategray solid !important;
+color: black!important;
+font-weight: bold !important;
+opacity: 0.9;
+
+}
+#main{
+background-color:whitesmoke;
+opacity: 0.9;
+    width: 400px;
+margin-top: 30px !important;
+border: 5px gray groove;
+border-radius: 30px 30px 50px 50px;
+}
+
+body{
+    background-image: url(calc.jpg);
+background-size: cover !important;
+}
